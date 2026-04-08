@@ -1,4 +1,18 @@
-## Hi there 👋
+Hey there!  I'm Utsaw
+
+Exploring the sweet spot between code and creativity
+✨About Me
+
+    🧠 ML + AI enthusiast
+    🖌️ Visual storyteller, blending design & logic
+    💻 Building things that are smart, useful, and beautiful
+    
+
+💡 Current Projects
+
+    🏥 Medical Triage Assistant — OpenEnv
+
+
 
 <!--
 **utsaw-ik/utsaw-ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
