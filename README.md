@@ -1,11 +1,15 @@
 Hey there!  I'm Utsaw
+---
 
 Exploring the sweet spot between code and creativity
+<hr>
+
 ✨About Me
 
     🧠 ML + AI enthusiast
     🖌️ Visual storyteller, blending design & logic
     💻 Building things that are smart, useful, and beautiful
+    ---
     
 
 💡 Current Projects
