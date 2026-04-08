@@ -9,9 +9,8 @@ Exploring the sweet spot between code and creativity
     🧠 ML + AI enthusiast
     🖌️ Visual storyteller, blending design & logic
     💻 Building things that are smart, useful, and beautiful
-    ---
     
-
+---
 💡 Current Projects
 
     🏥 Medical Triage Assistant — OpenEnv
