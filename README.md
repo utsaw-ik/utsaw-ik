@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 🌌 I'm Utsaw</h1>
 
-Exploring the sweet spot between code and creativity
+<p align="center">Exploring the sweet spot between code and creativity</p>
 <hr>
 
 ✨About Me
